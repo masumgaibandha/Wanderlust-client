@@ -21,7 +21,7 @@ const Navbar = () => {
           height={150}
           width={150}
           alt="logo"
-          src={"/assets/wanderlast.png"}
+          src={"/assets/Wanderlast.png"}
         ></Image>
       </div>
 

@@ -14,7 +14,7 @@ const Navbar = () => {
         <li>
           <Link href={"/my-bookings"}>My Bookings</Link>
         </li>
-      </ul>
+      </ul> 
 
       <div>
         <Image

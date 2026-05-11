@@ -14,6 +14,9 @@ const Navbar = () => {
         <li>
           <Link href={"/my-bookings"}>My Bookings</Link>
         </li>
+        <li>
+          <Link href={"/add-destination"}>Add Destination</Link>
+        </li>
       </ul> 
 
       <div>
